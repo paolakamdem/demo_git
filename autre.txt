@@ -1,3 +1,4 @@
 ceci est un fichier texte 
 
 et maintenat on modifie depuis github
+et maintenat aussi depuis git
